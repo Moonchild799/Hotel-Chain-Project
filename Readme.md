@@ -1,0 +1,1 @@
+The hotel chain added an opportunity of booking without prepayment. By using such system there is a risk of loss due to cancellations. We have a task to develop a system for predicting booking cancellations using ML model. If model forecasts a cancellation of the reservation, then this client will be asked to make a deposit in the amount of 80% of the cost.
